@@ -16,3 +16,10 @@ Key features of the "Chili Disease Prognosticator" include:
 5. Data Integration: Seamless integration with weather APIs, crop health monitoring systems, and pesticide databases ensures that the app's predictions are constantly updated with the latest information.
 
 Overall, the "Chili Disease Prognosticator: Pesticide Prediction App" serves as a valuable tool for chili farmers, empowering them to stay ahead of disease threats and adopt proactive pest management practices for sustainable crop production.
+
+
+
+""Explore the Chili Disease Prognosticator, a powerful tool for farmers! Predict disease outbreaks and optimize pesticide use for healthier chili crops. Access real-time insights and proactive management strategies for sustainable farming. Check it out now!""
+https://chili-disease-prognosticator-pesticide-prediction-app-jhfyytkl.streamlit.app/
+https://chili-disease-prognosticator-pesticide-prediction-app-jhfyytkl.streamlit.app/
+https://chili-disease-prognosticator-pesticide-prediction-app-jhfyytkl.streamlit.app/
